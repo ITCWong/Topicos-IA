@@ -6,8 +6,10 @@ Este es un repositorio para Subir mis tareas y trabajos de la materia Topicos De
 # Maetros: Zuriel Dathan Mora Felix
 # Grupo: 12:00-13:00
 
-## Tareas
-
-[Tarea 1]
+# Tarea 1
 Consiste en hacer una investigacion de las areas y aplicaciones de una ia, tambien contar con una exposicion.
+# Archivos
+https://github.com/ITCWong/Topicos-IA/tree/main/Tarea%201
+
+
 [Tarea 2]
