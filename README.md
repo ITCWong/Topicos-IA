@@ -1,10 +1,10 @@
-# Proyecto [Nombre del Repositorio]
+# Topicos De Ia
 
-Este es un repositorio para [Subir mis tareas y trabajos de la materia Topicos De IA]. El propósito de este repositorio es [Tener envidencia de mis proyectos y trabajos].
+Este es un repositorio para Subir mis tareas y trabajos de la materia Topicos De IA. El propósito de este repositorio es Tener envidencia de mis proyectos y trabajos.
 
-Alumno: [Jesus Guadalupe Wong Camacho]
-Maetros:[Zuriel Dathan Mora Felix]
-Grupo: [12:00-13:00]
+# Alumno: Jesus Guadalupe Wong Camacho
+# Maetros: Zuriel Dathan Mora Felix
+# Grupo: 12:00-13:00
 
 ## Tareas
 
