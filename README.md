@@ -1,20 +1,13 @@
 # Proyecto [Nombre del Repositorio]
 
-Este es un repositorio para [breve descripción del proyecto, por ejemplo, "una herramienta para análisis de datos", "un framework de automatización de tareas", etc.]. El propósito de este proyecto es [explicar el objetivo y el valor que ofrece el proyecto].
+Este es un repositorio para [Subir mis tareas y trabajos de la materia Topicos De IA]. El propósito de este repositorio es [Tener envidencia de mis proyectos y trabajos].
 
-## Tecnologías utilizadas
-Este proyecto utiliza las siguientes tecnologías:
-- **Python** 3.x
-- **Flask** (para el servidor web)
-- **Pandas** (para análisis de datos)
-- **SQLAlchemy** (para la gestión de bases de datos)
+Alumno: [Jesus Guadalupe Wong Camacho]
+Maetros:[Zuriel Dathan Mora Felix]
+Grupo: [12:00-13:00]
 
-## Instalación
+## Tareas
 
-Para comenzar a trabajar con este proyecto en tu máquina local, sigue estos pasos:
-
-### Clonar el repositorio
-
-```bash
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-cd nombre-del-repositorio
+[Tarea 1]
+Consiste en hacer una investigacion de las areas y aplicaciones de una ia, tambien contar con una exposicion.
+[Tarea 2]
