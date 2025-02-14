@@ -12,4 +12,7 @@ Consiste en hacer una investigacion de las areas y aplicaciones de una ia, tambi
 https://github.com/ITCWong/Topicos-IA/tree/main/Tarea%201
 
 
-[Tarea 2]
+# Tarea 2
+Realizamos una investigacion sobre modelos difusos en sistemas expertos, y tambien hay unos pequeños codigos que sirven para las areas en concreto
+# Archivos
+https://github.com/ITCWong/Topicos-IA/tree/main/Tarea%202
