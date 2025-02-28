@@ -16,3 +16,8 @@ https://github.com/ITCWong/Topicos-IA/tree/main/Tarea%201
 Realizamos una investigacion sobre modelos difusos en sistemas expertos, y tambien hay unos pequeños codigos que sirven para las areas en concreto
 # Archivos
 https://github.com/ITCWong/Topicos-IA/tree/main/Tarea%202
+
+# Proyecto Parte 1
+Gracias a nuestras investigaciones respecto a la IA empezamos a elaborar un proyecto en equipos.
+# Archivo de proyecto
+Compañero Jesus Barraza:https://github.com/jesusBarrazaCastro/itc_topicos_ia/tree/main/Protocolo%20de%20investigacion
