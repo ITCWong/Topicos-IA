@@ -21,3 +21,8 @@ https://github.com/ITCWong/Topicos-IA/tree/main/Tarea%202
 Gracias a nuestras investigaciones respecto a la IA empezamos a elaborar un proyecto en equipos.
 # Archivo de proyecto
 Compañero Jesus Barraza:https://github.com/jesusBarrazaCastro/itc_topicos_ia/tree/main/UNIDAD%201/Protocolo%20de%20investigacion
+
+# Modulo 2
+
+# Tarea 1
+Hicimos una Investgacion sobre unos metodos de busqueda con sus respectivos problemas como el de N reynas o el de viajero
