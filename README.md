@@ -32,7 +32,5 @@ Hicimos el codigo de N reynas con el metodo de busqueda tabu en parejas aqui est
 mi compañero jesus barraza y yo hicimos esta investigacion avazandonos en el problema de las N reynas.
 
 # Tarea 3
-Exposicion y Codigo sobre el probelma N reynas utilizando recocido simulado 
-Jesus Barraza
-Jesus Wong 
+Exposicion y Codigo sobre el probelma N reynas utilizando recocido simulado  
 Link: https://github.com/jesusBarrazaCastro/itc_topicos_ia/tree/main/UNIDAD%202/TAREA%203
