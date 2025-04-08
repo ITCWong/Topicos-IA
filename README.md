@@ -38,4 +38,6 @@ Link: https://github.com/jesusBarrazaCastro/itc_topicos_ia/tree/main/UNIDAD%202/
 # Modulo 3
 # Tarea 1
 Investigacion sobre Evolucion Diferencial, buscar un problema para resolverlo con este algoritmo
+# Link
+https://github.com/ITCWong/Topicos-IA/tree/main/Unidad%203
 equipo: Jesus Ablerto Barraza
