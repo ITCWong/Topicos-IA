@@ -60,3 +60,12 @@ Evaluación: El valor de la función objetivo para la posición actual.
 # Link
 https://github.com/jesusBarrazaCastro/itc_topicos_ia/tree/main/UNIDAD%203/TAREA%203
 Compañero de equipo Jesus Barraza
+# Tarea 4
+Este script implementa un algoritmo genético para resolver una variante del problema del viajante de comercio (TSP) sobre un conjunto de 14 ciudades españolas conectadas por rutas con distancias dadas.
+En cada ejecución, el programa:
+Inicializa una población de rutas válidas que visitan todas las ciudades una sola vez y regresan al punto de partida.
+Evalúa la calidad de cada ruta calculando la distancia total recorrida.
+Aplica selección por torneo, cruce y mutación para generar nuevas poblaciones a lo largo de varias generaciones.
+Registra en pantalla la mejor distancia y ruta encontrada en cada generación.
+Al final, imprime la ruta óptima hallada y su distancia total.
+Los nombres de variables y funciones están ofuscados en estilo genérico, de modo que las funciones de evaluación, generación, selección y variación aparecen con identificadores mínimos (f, gen_ind, sel, crz, mut, etc.), ideal para entornos de competición o pruebas donde no se desea exponer la lógica detallada.
